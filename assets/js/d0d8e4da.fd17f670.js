@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevelopersatset_blog=self.webpackChunkdevelopersatset_blog||[]).push([[222],{4745:a=>{a.exports=JSON.parse('{"label":"shortcuts","permalink":"/docs/tags/shortcuts","allTagsPath":"/docs/tags","count":1,"items":[{"id":"dimana-saya","title":"Dimana Saya","description":"Saya Seorang...","permalink":"/docs/dimana-saya"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevelopersatset_blog=self.webpackChunkdevelopersatset_blog||[]).push([[121],{8070:e=>{e.exports=JSON.parse('[{"label":"shortcuts","permalink":"/docs/tags/shortcuts","count":1},{"label":"teams","permalink":"/docs/tags/teams","count":1}]')}}]);

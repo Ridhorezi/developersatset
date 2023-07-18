@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevelopersatset_blog=self.webpackChunkdevelopersatset_blog||[]).push([[67],{3288:e=>{e.exports=JSON.parse('{"permalink":"/tags/jquery","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"A blog by Ridho Suhaebi Arrowi","blogTitle":"DeveloperSatSet"}')}}]);
