@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevelopersatset_blog=self.webpackChunkdevelopersatset_blog||[]).push([[895],{3260:e=>{e.exports=JSON.parse('{"permalink":"/tags/cli","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"A blog by Ridho Suhaebi Arrowi","blogTitle":"DeveloperSatSet"}')}}]);
